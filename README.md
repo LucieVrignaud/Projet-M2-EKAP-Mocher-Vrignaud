@@ -1,1 +1,3 @@
-# Projet-M2-EKAP-Mocher-Vrignaud
+# Projet SVM-ANN M2-EKAP
+
+Lucie VRIGNAUD et Cécile MOCHER
